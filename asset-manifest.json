@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio-app/static/css/main.675a9502.css",
-    "main.js": "/my-portfolio-app/static/js/main.656b1d39.js",
+    "main.js": "/my-portfolio-app/static/js/main.da3d8fcf.js",
     "static/media/android studio.png": "/my-portfolio-app/static/media/android studio.8a81ac4da2816855eac7.png",
     "static/media/syllabus2.png": "/my-portfolio-app/static/media/syllabus2.2528caa7dcfbe7dd4cee.png",
     "static/media/wehelpets1.png": "/my-portfolio-app/static/media/wehelpets1.7b28212644d69adaa50c.png",
@@ -18,10 +18,10 @@
     "static/media/javascript.png": "/my-portfolio-app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/my-portfolio-app/index.html",
     "main.675a9502.css.map": "/my-portfolio-app/static/css/main.675a9502.css.map",
-    "main.656b1d39.js.map": "/my-portfolio-app/static/js/main.656b1d39.js.map"
+    "main.da3d8fcf.js.map": "/my-portfolio-app/static/js/main.da3d8fcf.js.map"
   },
   "entrypoints": [
     "static/css/main.675a9502.css",
-    "static/js/main.656b1d39.js"
+    "static/js/main.da3d8fcf.js"
   ]
 }
