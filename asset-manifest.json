@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my-portfolio-app/static/css/main.675a9502.css",
+    "main.js": "/my-portfolio-app/static/js/main.da3d8fcf.js",
+    "static/media/android studio.png": "/my-portfolio-app/static/media/android studio.8a81ac4da2816855eac7.png",
+    "static/media/syllabus2.png": "/my-portfolio-app/static/media/syllabus2.2528caa7dcfbe7dd4cee.png",
+    "static/media/wehelpets1.png": "/my-portfolio-app/static/media/wehelpets1.7b28212644d69adaa50c.png",
+    "static/media/syllabus1.png": "/my-portfolio-app/static/media/syllabus1.4ebb0c6611fe5bb6b409.png",
+    "static/media/wehelpets3.png": "/my-portfolio-app/static/media/wehelpets3.8a20a989ed85afa865bf.png",
+    "static/media/wehelpets4.png": "/my-portfolio-app/static/media/wehelpets4.4356cfd7e79e0ff03567.png",
+    "static/media/wehelpets2.png": "/my-portfolio-app/static/media/wehelpets2.fb3a2fb12e4c11d00f38.png",
+    "static/media/mylogo.png": "/my-portfolio-app/static/media/mylogo.935a991cef227951be8b.png",
+    "static/media/react.png": "/my-portfolio-app/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/html.png": "/my-portfolio-app/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/my-portfolio-app/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/firebase.png": "/my-portfolio-app/static/media/firebase.209703cedf1b1a96bc52.png",
+    "static/media/adobe photoshop.png": "/my-portfolio-app/static/media/adobe photoshop.63fe31031c51fa12cc84.png",
+    "static/media/javascript.png": "/my-portfolio-app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/my-portfolio-app/index.html",
+    "main.675a9502.css.map": "/my-portfolio-app/static/css/main.675a9502.css.map",
+    "main.da3d8fcf.js.map": "/my-portfolio-app/static/js/main.da3d8fcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.675a9502.css",
+    "static/js/main.da3d8fcf.js"
+  ]
+}
